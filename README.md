@@ -7,3 +7,6 @@ Improvements to be made: (though dont relly on me I am very lazy, May do it when
 1)  Get the items on the menu and customisation option from an encrypted Excel file.
 2)  Put colours to the text, change font style and make it look better.
 3)  Remove redundant Code or variable making code more efficient.
+
+
+Co-author:- @Goldie17
